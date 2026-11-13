@@ -1,0 +1,17 @@
+{
+  "name": "BWifi-ESP8266 v3.5",
+  "version": "3.5",
+  "home_page": "https://github.com/JorgeGBeltre/BWifi-ESP8266",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
+
